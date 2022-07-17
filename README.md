@@ -15,7 +15,7 @@ PyQt5 >= 5.15.6
 just run the command `python main.py`,then it will show the pyqt window:
 
 <div align="center">
- <img src="https://github.com/bmxbmx3/annotation_transform_pyqt/pic/main.jpg" width="60%"/>
+ <img src="https://github.com/bmxbmx3/annotation_transform_pyqt/tree/master/pic/main.jpg" width="60%"/>
   <br>main window</br>
   <br></br>
 </div>
@@ -28,7 +28,7 @@ just run the command `python main.py`,then it will show the pyqt window:
 ## The core idea to implement this code
 
 <div align="center">
- <img src="https://github.com/bmxbmx3/annotation_transform_pyqt/pic/concept.jpg" width="60%"/>
+ <img src="https://github.com/bmxbmx3/annotation_transform_pyqt/tree/master/pic/concept.jpg" width="60%"/>
   <br>main window</br>
   <br></br>
 </div>
