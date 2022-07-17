@@ -1,6 +1,6 @@
 # annotation_transform_pyqt
 
-transform annotation formats for CV learning, like yolo, coco, etc.
+Transform annotation formats for CV learning, like yolo, coco, etc.
 
 ## Environment
 
@@ -12,7 +12,7 @@ PyQt5 >= 5.15.6
 
 ## How to use
 
-just run the command `python main.py`,then it will show the pyqt window:
+Just run the command `python main.py`,then it will show the pyqt window:
 
 <div align="center">
  <img src="https://github.com/bmxbmx3/annotation_transform_pyqt/blob/master/pic/main.jpg" width="60%"/>
@@ -59,4 +59,4 @@ The basic "middle json" format is like below:
 }
 ```
 
-If you want to extend more formats, just follow the code in the "algorithm" directory to make your own.And I'm glad to welcome your PR for this project. :)
+If you want to extend more formats, just follow the code in the "algorithm" directory to make your own. And I'm glad to welcome your PR for this project. :)
