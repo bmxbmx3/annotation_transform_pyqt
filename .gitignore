@@ -1,3 +1,4 @@
 dist
 build
 .idea
+!algorithm/middle_json
